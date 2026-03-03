@@ -138,6 +138,7 @@ If you find our survey useful for your research, please cite the following paper
 | VideoSAVi: Self-Aligned Video Language Models without Human Supervision | [Paper](https://arxiv.org/abs/2412.00624) |  |  |  |
 | Veason-R1: Reinforcing Video Reasoning Segmentation to Think Before It Segments | [Paper](https://arxiv.org/abs/2407.05513) |  |  |  |
 | SAIL-VL2 Technical Report | [Paper]() |  |  |  |
+| Factorized Learning for Temporally Grounded Video-Language Models | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Factorized_Learning_for_Temporally_Grounded_Video-Language_Models_ICCV_2025_paper.pdf) | [GitHub](https://github.com/nusnlp/d2vlm) | [Dataset](https://huggingface.co/datasets/wenzhengzeng/D2VLM-Dataset) | ICCV 2025 |
 
 ### Video-LMM SFT for Reasoning
 
